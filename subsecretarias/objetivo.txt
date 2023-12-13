@@ -1,0 +1,3 @@
+Encontrar inconsistências nas subsecretarias:
+
+SVS, SAIS, SUPLANS, SUAG, SUGEP, SULOG, SINFRA, SUCOMP
