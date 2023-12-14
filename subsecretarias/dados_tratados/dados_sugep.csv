@@ -1,0 +1,28 @@
+552.100000000000,100000000000,Subsecretaria de Gestão de Pessoas,SES/SUGEP
+552.1001,100100000000,Assessoria de Carreiras e Legislação,SES/SUGEP/ACL
+552.1007,100700000000,Coordenação de Administração de Profissionais,SES/SUGEP/COAP
+552.100701,100701000000,Diretoria de Administração de Profissionais,SES/SUGEP/COAP/DIAP
+552.10070101,100701010000,Gerência de Administração de Profissionais,SES/SUGEP/COAP/DIAP/GEAP
+552.1007010101,100701010100,Núcleo de Profissionais da Administração Central,SES/SUGEP/COAP/DIAP/GEAP/NPAC
+552.1007010102,100701010200,Núcleo de Admissão e Movimentação,SES/SUGEP/COAP/DIAP/GEAP/NUAM
+552.1007010103,100701010300,Núcleo de Análise de Acumulação de Cargos,SES/SUGEP/COAP/DIAP/GEAP/NUAAC
+552.10070102,100701020000,Gerência de Profissionais Cedidos e Requisitados,SES/SUGEP/COAP/DIAP/GPCR
+552.1007010201,100701020100,Núcleo de Cessões Especiais,SES/SUGEP/COAP/DIAP/GPCR/NUCE
+552.10070103,100701030000,Gerência de Aposentadorias e Pensões,SES/SUGEP/COAP/DIAP/GAPE
+552.1007010301,100701030100,Núcleo de Cadastro e Pagamento de Aposentadorias e Pensões,SES/SUGEP/COAP/DIAP/GAPE/NCPAP
+552.10070104,100701040000,Gerência de Controle de Frequência e Escala,SES/SUGEP/COAP/DIAP/GEFREQ
+552.1007010401,100701040100,Núcleo de Controle de Escalas,SES/SUGEP/COAP/DIAP/GEFREQ/NCE
+552.10070105,100701050000,"Gerência de Segurança, Higiene e Medicina do Trabalho",SES/SUGEP/COAP/DIAP/GSHMT
+552.1007010501,100701050100,"Núcleo de Segurança, Higiene e Medicina do Trabalho",SES/SUGEP/COAP/GSHMT/NSHMT
+552.100702,100702000000,"Diretoria de Planejamento, Monitoramento e Avaliação do Trabalho",SES/SUGEP/CIGEC/DIPMAT
+552.10070201,100702010000,"Gerência de Planejamento, Seleção e Provimento",SES/SUGEP/CIGEC/DIPMAT/GESP
+552.10070202,100702020000,Gerência de Dimensionamento e Avaliação do Trabalho,SES/SUGEP/CIGEC/DIPMAT/GEDAT
+552.10070203,100702030000,Gerência de Voluntariado,SES/SUGEP/CIGEC/DIPMAT/GEVOL
+552.100703,100703000000,Diretoria de Pagamento de Pessoal,SES/SUGEP/COAP/DIPAG
+552.10070301,100703010000,Gerência de Pagamento,SES/SUGEP/COAP/DIPAG/GEPAG
+552.10070302,100703020000,Gerência de Cadastro,SES/SUGEP/COAP/DIPAG/GECAD
+552.10070303,100703030000,Gerência de Acompanhamento e Avaliação da Folha,SES/SUGEP/COAP/DIPAG/GEAAF
+552.1008,100800000000,Coordenação de Inovação e Gestão do Conhecimento,SES/SUGEP/CIGEC
+552.100801,100801000000,Diretoria de Desenvolvimento Estratégico de Pessoas,SES/SUGEP/CIGEC/DIDEP
+552.10080101,100801010000,Gerência de Carreiras e Cargos,SES/SUGEP/CIGEC/DIDEP/GECC
+552.10080102,100801020000,Gerência de Educação em Saúde,SES/SUGEP/CIGEC/DIDEP/GES

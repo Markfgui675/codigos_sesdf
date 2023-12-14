@@ -1,0 +1,59 @@
+552.70000000000,070000000000,Subsecretaria de Atenção Integral à Saúde,SES/SAIS
+552.70400000000,070400000000,Assessoria da Política Nacional de Humanização,SES/SAIS/APNH
+552.70600000000,070600000000,Assessoria de Redes de Atenção à Saúde,SES/SAIS/ARAS
+552.70500000000,070500000000,Assessoria de Política de Prevenção e Controle do Câncer,SES/SAIS/ASCCAN
+552.70300000000,070300000000,Coordenação de Atenção Especializada à Saúde,SES/SAIS/CATES
+552.70305000000,070305000000,Assessoria de Atenção Hospitalar,SES/SAIS/CATES/AAH
+552.70302000000,070302000000,Diretoria de Assistência Farmacêutica,SES/SAIS/CATES/DIASF
+552.70302020000,070302020000,Gerência de Assistência Farmacêutica Especializada,SES/SAIS/CATES/DIASF/GAFAE
+552.70302030000,070302030000,Gerência do Componente Básico da Assistência Farmacêutica,SES/SAIS/CATES/DIASF/GCBAF
+552.70302040000,070302040000,Gerência do Componente Especializado da Assistência Farmacêutica,SES/SAIS/CATES/DIASF/GCEAF
+552.70302010000,070302010000,Núcleo de Farmácia Ambulatorial Judicial,SES/SAIS/CATES/DIASF/NUFAJ
+552.70303000000,070303000000,Diretoria de Serviços de Internação,SES/SAIS/CATES/DSINT
+552.70303110000,070303110000,Gerência de Serviços de Atenção Domiciliar,SES/SAIS/CATES/DSINT/GESAD
+552.70303120000,070303120000,Gerência de Serviços de Internação,SES/SAIS/CATES/DSINT/GESINT
+552.70303130000,070303130000,Gerência de Serviços de Terapia Intensiva,SES/SAIS/CATES/DSINT/GESTI
+552.70304000000,070304000000,"Diretoria de Serviços de Urgências, Apoio Diagnóstico e Cirurgias",SES/SAIS/CATES/DUAEC
+552.70304030000,070304030000,Gerência de Apoio aos Serviços de Urgência e Emergências,SES/SAIS/CATES/DUAEC/GASFURE
+552.70304050000,070304050000,Gerência de Serviços de Apoio Diagnóstico,SES/SAIS/CATES/DUAEC/GEDIAG
+552.70304040000,070304040000,Gerência de Serviços Cirúrgicos,SES/SAIS/CATES/DUAEC/GESCIR
+552.70100000000,070100000000,Coordenação de Atenção Primária à Saúde,SES/SAIS/COAPS
+552.70104000000,070104000000,Assessoria de Atenção Primária,SES/SAIS/COAPS/AAP
+552.70102000000,070102000000,Diretoria de Áreas Estratégicas da Atenção Primária,SES/SAIS/COAPS/DAEAP
+552.70102010000,070102010000,Gerência de Atenção à Saúde de Populações em Situação Vulnerável e Programas Especiais,SES/SAIS/COAPS/DAEAP/GASPVP
+552.70102040000,070102040000,Gerência de Práticas Integrativas em Saúde,SES/SAIS/COAPS/DAEAP/GERPIS
+552.70102020000,070102020000,Gerência de Saúde do Sistema Prisional,SES/SAIS/COAPS/DAEAP/GESSP
+552.70103000000,070103000000,Diretoria da Estratégia Saúde da Família,SES/SAIS/COAPS/DESF
+552.70103020000,070103020000,Gerência de Apoio à Saúde da Família,SES/SAIS/COAPS/DESF/GASF
+552.70103030000,070103030000,Gerência de Qualidade na Atenção Primária,SES/SAIS/COAPS/DESF/GEQUALI
+552.70103010000,070103010000,Gerência da Estratégia Saúde da Família,SES/SAIS/COAPS/DESF/GESFAM
+552.70200000000,070200000000,Coordenação de Atenção Secundária e Integração de Serviços,SES/SAIS/COASIS
+552.70201000000,070201000000,Diretoria de Atenção Secundária e Integração de Serviços,SES/SAIS/COASIS/DASIS
+552.70201040000,070201040000,Gerência de Serviços de Odontologia,SES/SAIS/COASIS/DASIS/GEO
+552.70201080000,070201080000,Gerência de Serviços Ambulatoriais,SES/SAIS/COASIS/DASIS/GESAMB
+552.70201050000,070201050000,Gerência de Serviços de Nutrição,SES/SAIS/COASIS/DASIS/GESNUT
+552.70201020000,070201020000,Gerência de Serviços de Saúde Funcional,SES/SAIS/COASIS/DASIS/GESSF
+552.70201030000,070201030000,Gerência de Serviços Social,SES/SAIS/COASIS/DASIS/GSS
+552.70203000000,070203000000,Diretoria de Enfermagem,SES/SAIS/COASIS/DIENF
+552.70203010000,070203010000,Gerência de Serviços de Enfermagem na Atenção Primária e Secundária,SES/SAIS/COASIS/DIENF/GENFAPS
+552.70203020000,070203020000,Gerência de Serviços de Enfermagem na Atenção Hospitalar e nas Urgências,SES/SAIS/COASIS/DIENF/GENFH
+552.70203030000,070203030000,Gerência de Serviços de Enfermagem Obstétrica e Neonatal,SES/SAIS/COASIS/DIENF/GEON
+552.70202000000,070202000000,Diretoria de Serviços de Saúde Mental,SES/SAIS/COASIS/DISSAM
+552.70202020000,070202020000,Gerência de Normalização e Apoio em Saúde Mental,SES/SAIS/COASIS/DISSAM/GENASAM
+552.70202010000,070202010000,Gerência de Serviços de Saúde Mental,SES/SAIS/COASIS/DISSAM/GESSAM
+552.70202030000,070202030000,Gerência de Serviços de Psicologia,SES/SAIS/COASIS/DISSAM/GPSI
+552.070700000000,070700000000,"Coordenação de Elaboração, Monitoramento e Avaliação de Compras e Contratações Assistenciais",SES/SAIS/COEMAC
+552.070701000000,070701000000,Diretoria de Planejamento e Acompanhamento de Compras e Contratações Assistenciais,SES/SAIS/COEMAC/DIPAC
+552.070701010000,070701010000,Gerência de Planejamento e Organização dos Serviços Assistenciais ,SES/SAIS/COEMAC/DIPAC/GEPOS
+552.070701020000,070701020000,Gerência de Elaboração dos Instrumentos de Compras e Contratações Assistenciais ,SES/SAIS/COEMAC/DIPAC/GEICC
+552.070701030000,070701030000,Gerência de Monitoramento da Execução de Contratos Assistenciais ,SES/SAIS/COEMAC/DIPAC/GEMEX
+552.070702000000,070702000000,Diretoria de Avaliação e Qualificação da Assistência,SES/SAIS/COEMAC/DAQUA
+552.070702010000,070702010000,Gerência de Avaliação Técnica-Assistêncial dos Contratos de Gestão e de Resultados,SES/SAIS/COEMAC/DAQUA/GATCG
+552.070702020000,070702020000,Gerência de Avaliação Técnica-Assistêncial de Contratos Assistenciais Complementares,SES/SAIS/COEMAC/DAQUA/GATCA
+552.70201050100,070201050100,Central de Nutrição Domiciliar,SES/SAIS/DASIS/GESNUT/CNUD
+552.70201020100,070201020100,"Núcleo de Atendimento Ambulatorial de Órteses, Próteses e Materiais Especiais",SES/SAIS/DASIS/GESSF/NAOPME
+552.70201020200,070201020200,Núcleo de Produção de Órteses e Próteses,SES/SAIS/DASIS/GESSF/NUPOP
+552.70302030100,070302030100,Núcleo de Farmácia Viva,SES/SAIS/DIASF/GCBAF/NFARV
+552.70302040100,070302040100,Núcleo de Farmácia do Componente Especializado na Asa Sul,SES/SAIS/DIASF/GCEAF/NFCE AS
+552.70302040200,070302040200,Núcleo de Farmácia do Componente Especializado em Ceilândia,SES/SAIS/DIASF/GCEAF/NFCE CEI
+552.70302040300,070302040300,Núcleo de Farmárcia do Componente Especializado no Gama,SES/SAIS/DIASF/GCEAF/NFCE GAMA

@@ -1,0 +1,29 @@
+552.10000000000,010000000000,Gabinete,SES/GAB
+552.101,10100000000,Assessoria Especial,SES/GAB/ASESP
+552.102,10200000000,Assessoria de Comunicação,SES/GAB/ASCOM
+552.103,10300000000,Assessoria de Gestão Estratégica e Projetos,SES/GAB/AGEP
+552.104,10400000000,Assessoria de Gestão Participativa e Relações Institucionais,SES/GAB/ARINS
+552.10401,10401000000,Secretaria Executiva da Mesa de Negociação do SUS DF,SES/GAB/ARINS/MNNP-SUS
+552.10402,10402000000,Secretaria Executiva do Colegiado de Gestão da Secretaria de Estado de Saúde do Distrito Federal,SES/GAB/ARINS/CGSES
+552.0106,10600000000,Coordenação Especial de Tecnologia de Informação em Saúde,SES/GAB/CTINF
+552.010601,10601000000,Diretoria de Sistemas de Informação,SES/GAB/CTINF/DSI
+552.01060101,10601010000,Gerência de Requisitos Negociais,SES/GAB/CTINF/DSI/GRN
+552.01060102,10601020000,Gerência de Desenvolvimento,SES/GAB/CTINF/DSI/GD
+552.01060103,10601030000,Gerência de Dados,SES/GAB/CTINF/DSI/GDAD
+552.010602,10602000000,Diretoria de Infraestrutura de Tecnologia,SES/GAB/CTINF/DIT
+552.01060201,10602010000,Gerência de Produção e Operação,SES/GAB/CTINF/DIT/GPO
+552.01060202,10602020000,Gerência de Projetos e Suporte,SES/GAB/CTINF/DIT/GPROS
+552.010603,10603000000,Diretoria de Governança em Tecnologia da Informação,SES/GAB/CTINF/DGTI
+552.01060302,10603010000,Gerência de Atendimento,SES/GAB/CTINF/DGTI/GEAT
+552.01060301,10603020000,Gerência de Tecnologia,SES/GAB/CTINF/DGTI/GTEC
+552.107,10700000000,Assessoria de Apoio à Documentação Administrativa,SES/GAB/ASADM
+552.108,10800000000,Coordenação Especial de Gestão de Contratos de Serviços de Saúde,SES/GAB/CGCSS
+552.10801,10801000000,Diretoria de Gestão Regionalizada,SES/GAB/CGCSS/DGR
+552.1080101,10801010000,Gerência de Contratuaização Regionalizada,SES/GAB/CGCSS/DGR/GCR
+552.1080102,10801020000,Gerência de Custos Regionais,SES/GAB/CGCSS/DGR/GEC
+552.10802,10802000000,Diretoria de Contratos de Gestão e Contratos Assistênciais Complementares,SES/GAB/CGCSS/DCGCA
+552.1080201,10802010000,Gerência de Contratos de Gestão de Resultados,SES/GAB/CGCSS/DCGCA/GCGR
+552.1080202,10802020000,Gerência de Contratos Assistênciais Complementares,SES/GAB/CGCSS/DCGCA/GCAC
+552.10803,10803000000,Diretoria de Avaliação e Qualificação da Assistência,SES/GAB/CGCSS/DAQUA
+552.1080301,10803010000,Gerência de Avaliação Técnica-Assistêncial dos Contratos de Gestão e de Resultados,SES/GAB/CGCSS/DAQUA/GATCG
+552.1080302,10803020000,Gerência de Avaliação Técnica-Assistêncial de Contratos Assistenciais Complementares,SES/GAB/CGCSS/DAQUA/GATCA
