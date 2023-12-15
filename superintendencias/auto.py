@@ -1,6 +1,6 @@
 import pandas
 
-nomes = ['ajl', 'cont', 'fsdf', 'gab', 'sais', 'sinfra', 'suag', 'sucomp', 'sugep', 'sulog', 'suplans', 'svs']
+nomes = ['central', 'centro-sul', 'leste', 'norte', 'oeste', 'sudoeste', 'sul']
 
 for n in nomes:
     nome_arquivo_recebido = f'{n}.csv'
@@ -23,7 +23,7 @@ for n in nomes:
 
     for d in range(len(dados_a_ordenar)):
         ordenado_coluna1.append(dados_a_ordenar[d][0])
-        ordenado_coluna2.append(dados_a_ordenar[d][1])
+        ordenado_coluna2.append(str(dados_a_ordenar[d][1])[:11])
         ordenado_coluna3.append(dados_a_ordenar[d][2])
         ordenado_coluna4.append(dados_a_ordenar[d][3])
 

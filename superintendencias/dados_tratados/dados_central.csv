@@ -1,0 +1,122 @@
+552.340000000000,340000000000,Superintendência da Região de Saúde Central,SES/SRSCE
+552.3401,34010000000,Núcleo de Ensino e Pesquisa,SES/SRSCE/NUEP
+552.3402,34020000000,Núcleo de Prevenção e Assistência a Situações de Violência,SES/SRSCE/NUPAV
+552.3403,34030000000,Diretoria Administrativa,SES/SRSCE/DA
+552.340301,34030100000,Gerência de Orçamento e Finanças,SES/SRSCE/DA/GEOF
+552.340302,34030200000,Gerência de Pessoas,SES/SRSCE/DA/GP
+552.34030201,34030201000,Núcleo de Controle de Escalas,SES/SRSCE/DA/GP/NCE
+552.34030202,34030202000,Núcleo de Educação Permanente em Saúde,SES/SRSCE/DA/GP/NEPS
+552.34030203,34030203000,Núcleo de Gestão de Pessoas das Unidades de Atenção Especializada na Asa Norte,SES/SRSCE/DA/GP/NGPESP-AN
+552.34030204,34030204000,"Núcleo de Segurança, Higiene e Medicina do Trabalho na Asa Norte",SES/SRSCE/DA/GP/NSHMT-AN
+552.34030205,34030205000,Núcleo de Gestão de Pessoas das Unidades de Atenção Primária da Região Central,SES/SRSCE/DA/GP/NGPAPS-CE
+552.34030206,34030206000,Núcleo de Gestão de Pessoas das Unidades de Atenção Secundária da Região Central,SES/SRSCE/DA/GP/NGPSEC-CE
+552.340303,34030300000,Gerência de Apoio Operacional das Unidades de Atenção Especializada na Asa Norte,SES/SRSCE/DA/GAOESP-AN
+552.34030301,34030301000,Núcleo de Atividades Gerais e Manutenção Predial,SES/SRSCE/DA/GAOESP-AN/NAGMP
+552.34030302,34030302000,Núcleo de Hotelaria em Saúde,SES/SRSCE/DA/GAOESP-AN/NHS
+552.34030303,34030303000,Núcleo de Farmácia Hospitalar,SES/SRSCE/DA/GAOESP-AN/NFH
+552.34030304,34030304000,Núcleo de Engenharia Clínica e Física Médica,SES/SRSCE/DA/GAOESP-AN/NECFM
+552.34030305,34030305000,Núcleo de Almoxarifado,SES/SRSCE/DA/GAOESP-AN/NUAL
+552.34030306,34030306000,Núcleo de Material Esterilizado,SES/SRSCE/DA/GAOESP-AN/NME
+552.34030307,34030307000,Núcleo de Patrimônio e Documentação Administrativa,SES/SRSCE/DA/GAOESP-AN/NPDOC
+552.34030308,34030308000,Núcleo de Transporte,SES/SRSCE/DA/GAOESP-AN/NT
+552.34030309,34030309000,Núcleo de Tecnologia da Informação,SES/SRSCE/DA/GAOESP-AN/NTINF
+552.340304,34030400000,Gerência de Apoio Operacional das Unidades de Atenção Primária da Região Central,SES/SRSCE/DA/GAOAPS-CE
+552.34030401,34030401000,"Núcleo de Atividades Gerais, Manutenção Predial e Transporte",SES/SRSCE/DA/GAOAPS-CE/NAGMPT
+552.34030402,34030402000,Núcleo de Logística Farmacêutica,SES/SRSCE/DA/GAOAPS-CE/NLF
+552.34030403,34030403000,Núcleo de Hotelaria em Saúde,SES/SRSCE/DA/GAOAPS-CE/NHS
+552.34030404,34030404000,Núcleo de Almoxarifado,SES/SRSCE/DA/GAOAPS-CE/NUAL
+552.34030405,34030405000,Núcleo de Patrimônio e Documentação Administrativa,SES/SRSCE/DA/GAOAPS-CE/NPDOC
+552.34030406,34030406000,Núcleo de Tecnologia da Informação,SES/SRSCE/DA/GAOAPS-CE/NTINF
+552.3404,34040000000,Diretoria do Hospital Regional da Asa Norte,SES/SRSCE/HRAN
+552.340401,34040100000,Ouvidoria,SES/SRSCE/HRAN/OUVIDORIA
+552.340402,34040200000,Núcleo de Controle de Infecção Hospitalar,SES/SRSCE/HRAN/NCIH
+552.340403,34040300000,Núcleo Hospitalar de Epidemiologia,SES/SRSCE/HRAN/NHEP
+552.340404,34040400000,Núcleo de Qualidade e Segurança do Paciente,SES/SRSCE/HRAN/NQSP
+552.340408,34040800000,Núcleo de Creche,SES/SRSCE/HRAN/CRECHE
+552.340425,34042500000,Gerência de Emergência,SES/SRSCE/HRAN/GEMERG
+552.340426,34042600000,Gerência de Enfermagem,SES/SRSCE/HRAN/GENF
+552.340427,34042700000,Gerência de Assistência Multidisciplinar e Apoio Diagnóstico,SES/SRSCE/HRAN/GAMAD
+552.34042701,34042701000,Núcleo de Banco de Leite Humano,SES/SRSCE/HRAN/GAMAD/NBLH
+552.34042702,34042702000,Núcleo de Hematologia e Hemoterapia,SES/SRSCE/HRAN/GAMAD/NHH
+552.34042703,34042703000,Núcleo de Patologia Clínica,SES/SRSCE/HRAN/GAMAD/NUPAC
+552.34042704,34042704000,Núcleo de Radiologia e Imagenologia,SES/SRSCE/HRAN/GAMAD/NURI
+552.34042705,34042705000,Núcleo de Citopatologia e Anatomia Patológica,SES/SRSCE/HRAN/GAMAD/NCAP
+552.34042706,34042706000,Núcleo de Farmácia Clínica,SES/SRSCE/HRAN/GAMAD/NFC
+552.34042707,34042707000,Núcleo de Nutrição e Dietética,SES/SRSCE/HRAN/GAMAD/NND
+552.34042708,34042708000,Núcleo de Saúde Funcional,SES/SRSCE/HRAN/GAMAD/NSF
+552.34042709,34042709000,Núcleo de Serviço Social,SES/SRSCE/HRAN/GAMAD/NSS
+552.340428,34042800000,Gerência Interna de Regulação,SES/SRSCE/HRAN/GIR
+552.34042801,34042801000,Núcleo de Recepção de Emergência,SES/SRSCE/HRAN/GIR/NUREM
+552.34042802,34042802000,"Núcleo de Matrícula, Marcação de Consultas e Prontuário de Pacientes",SES/SRSCE/HRAN/GIR/NMCP
+552.34042803,34042803000,Núcleo de Gestão da Internação,SES/SRSCE/HRAN/GIR/NGINT
+552.34042804,34042804000,Núcleo de Apoio e Remoção de Pacientes,SES/SRSCE/HRAN/GIR/NARP
+552.340429,34042900000,Gerência de Assistência Clínica,SES/SRSCE/HRAN/GACL
+552.34042901,34042901000,Unidade de Cardiologia,SES/SRSCE/HRAN/GACL/UCARD
+552.34042902,34042902000,Unidade de Dermatologia,SES/SRSCE/HRAN/GACL/UDERMA
+552.34042903,34042903000,Unidade de Medicina Interna,SES/SRSCE/HRAN/GACL/UMEI
+552.34042904,34042904000,Unidade de Neonatologia,SES/SRSCE/HRAN/GACL/UNEO
+552.34042905,34042905000,Unidade de Pediatria,SES/SRSCE/HRAN/GACL/UPED
+552.34042906,34042906000,Unidade de Pneumologia,SES/SRSCE/HRAN/GACL/UPN
+552.34042907,34042907000,Unidade de Terapia Intensiva Adulto,SES/SRSCE/HRAN/GACL/UTI ADU
+552.34042908,34042908000,Núcleo Regional de Atenção Domiciliar,SES/SRSCE/HRAN/GACL/NRAD
+552.34043,34043000000,Gerência de Assistência Cirúrgica,SES/SRSCE/HRAN/GACIR
+552.34043001,34043001000,Unidade de Anestesiologia e Medicina Perioperatória,SES/SRSCE/HRAN/GACIR/UAMP
+552.34043002,34043002000,Unidade de Centro Cirúrgico,SES/SRSCE/HRAN/GACIR/UCC
+552.34043003,34043003000,Unidade de Centro Obstétrico,SES/SRSCE/HRAN/GACIR/UCOB
+552.34043004,34043004000,Unidade de Cirurgia Geral,SES/SRSCE/HRAN/GACIR/UCG
+552.34043005,34043005000,Unidade de Cirurgias Plásticas,SES/SRSCE/HRAN/GACIR/UCPLA
+552.34043006,34043006000,Unidade de Clínicas Cirúrgicas,SES/SRSCE/HRAN/GACIR/UCLC
+552.34043007,34043007000,Unidade de Ginecologia e Obstetrícia,SES/SRSCE/HRAN/GACIR/UGO
+552.34043008,34043008000,Unidade de Odontologia,SES/SRSCE/HRAN/GACIR/UOD
+552.34043009,34043009000,Unidade de Oftalmologia,SES/SRSCE/HRAN/GACIR/UOFT
+552.3404301,34043010000,Unidade de Queimados,SES/SRSCE/HRAN/GACIR/UQ
+552.34044,34044000000,"Gerência de Planejamento, Monitoramento e Avaliação",SES/SRSCE/HRAN/GPMA
+552.3404401,34044010000,Núcleo de Captação e Análise de Informações do SUS,SES/SRSCE/HRAN/GPMA/NCAIS
+552.3404402,34044020000,Núcleo de Gestão de Custos,SES/SRSCE/HRAN/GPMA/NGC
+552.3405,34050000000,Diretoria Regional de Atenção Primária à Saúde,SES/SRSCE/DIRAPS
+552.340501,34050100000,Núcleo de Vigilância Epidemiológica e Imunização,SES/SRSCE/DIRAPS/NVEPI
+552.340502,34050200000,"Gerência de Planejamento, Monitoramento e Avaliação",SES/SRSCE/DIRAPS/GPMA
+552.34050201,34050201000,Núcleo de Captação e Análise de Informações do SUS,SES/SRSCE/DIRAPS/GPMA/NCAIS
+552.34050202,34050202000,Núcleo de Gestão de Custos,SES/SRSCE/DIRAPS/GPMA/NGC
+552.340504,34050400000,Gerência de Áreas Programáticas de Atenção Primária à Saúde,SES/SRSCE/DIRAPS/GAPAPS
+552.340505,34050500000,Gerência de Enfermagem,SES/SRSCE/DIRAPS/GENF
+552.340506,34050600000,Gerência de Regulação da Região de Saúde Central,SES/SRSCE/DIRAPS/GERCE
+552.340507,34050700000,Gerência de Serviços de Atenção Primária nº 1 do Cruzeiro,SES/SRSCE/DIRAPS/GSAP1-CRZ
+552.34050701,34050701000,Unidade Básica de Saúde nº 1 do Cruzeiro,SES/SRSCE/GSAP1-CRZ/UBS1-CRZ
+552.340508,34050800000,Gerência de Serviços de Atenção Primária n° 2 do Cruzeiro,SES/SRSCE/DIRAPS/GSAP2-CRZ
+552.34050801,34050801000,Unidade Básica de Saúde nº 2 do Cruzeiro,SES/SRSCE/GSAP2-CRZ/UBS2-CRZ
+552.340509,34050900000,Gerência de Serviços de Atenção Primária n° 1 do Lago Norte,SES/SRSCE/DIRAPS/GSAP1-LN
+552.34050901,34050901000,Unidade Básica de Saúde nº 1 do Lago Norte,SES/SRSCE/GSAP1-LN/UBS1-LN
+552.34051,34051000000,Gerência de Serviços de Atenção Primária n° 1 da Asa Norte,SES/SRSCE/DIRAPS/GSAP1-AN
+552.34051001,34051001000,Unidade Básica de Saúde nº 1 da Asa Norte,SES/SRSCE/GSAP1-AN /UBS1-AN 
+552.340512,34051200000,Gerência de Serviços de Atenção Primária n° 2 da Asa Norte,SES/SRSCE/DIRAPS/GSAP2-AN
+552.34051201,34051201000,Unidade Básica de Saúde nº 2 da Asa Norte,SES/SRSCE/GSAP2-AN /UBS2-AN 
+552.34051202,34051202000,Unidade Básica de Saúde nº 5 da Asa Norte,SES/SRSCE/GSAP2-AN /UBS5-AN 
+552.340513,34051300000,Gerência de Serviços de Atenção Primária n° 3 da Asa Norte,SES/SRSCE/DIRAPS/GSAP3-AN
+552.34051301,34051301000,Unidade Básica de Saúde nº 3 da Asa Norte,SES/SRSCE/GSAP3-AN /UBS3-AN 
+552.340514,34051400000,Gerência de Serviços de Atenção Primária do Varjão,SES/SRSCE/DIRAPS/GSAP-VARJ
+552.34051401,34051401000,Unidade Básica de Saúde nº 1 do Varjão,SES/SRSCE/GSAP-VARJ/UBS1-VARJ
+552.340515,34051500000,Gerência de Acesso e Qualidade em Atenção Primária à Saúde,SES/SRSCE/DIRAPS/GEAQAPS
+552.340516,34051600000,Gerência de Serviços de Atenção Primária n° 1 da Asa Sul,SES/SRSCE/DIRAPS/GSAP1-AS
+552.34051601,34051601000,Unidade Básica de Saúde nº 1 da Asa Sul,SES/SRSCE/GSAP1-AS/UBS1-AS
+552.3411,34110000000,Assessoria de Planejamento em Saúde,SES/SRSCE/ASPLAN
+552.3412,34120000000,Diretoria Regional de Atenção Secundária,SES/SRSCE/DIRASE
+552.341201,34120100000,"Gerência de Planejamento, Monitoramento e Avaliação",SES/SRSCE/DIRASE/GPMA
+552.34120101,34120101000,Núcleo de Captação e Análise de Informações do Sus,SES/SRSCE/DIRASE/GPMA/NCAIS
+552.34120102,34120102000,Núcleo de Gestão de Custos,SES/SRSCE/DIRASE/GPMA/NGC
+552.341202,34120200000,Centro de Atenção Psicossocial Caps Ad Rodoviária,SES/SRSCE/DIRASE/CAPS AD-ROD
+552.341203,34120300000,Centro de Atenção Psicossocial Caps III Brasília,SES/SRSCE/DIRASE/CAPS III-BSB
+552.341204,34120400000,Centro de Atenção Psicossocial Caps I Brasília,SES/SRSCE/DIRASE/CAPS I-BSB
+552.341205,34120500000,Centro de Orientação Médico-Psicopedagógica,SES/SRSCE/DIRASE/COMPP
+552.341206,34120600000,Adolescentro,SES/SRSCE/DIRASE/ADOLESCENTRO
+552.341207,34120700000,Hospital Dia,SES/SRSCE/DIRASE/HOSP DIA
+552.34120701,34120701000,Núcleo de Testagem e Aconselhamento,SES/SRSCE/DIRASE/HOSP DIA/NTA
+552.341208,34120800000,"Centro Especializado em Diabetes, Obesidade e Hipertensão",SES/SRSCE/DIRASE/CEDOH
+552.341209,34120900000,Gerência de Serviços de Atenção Secundária 1,SES/SRSCE/DIRASE/GSAS1
+552.34120901,34120901000,Policlínica - Asa Norte,SES/SRSCE/GSAS1/POLIC-AN 
+552.34120902,34120902000,Centro de Especialidades Odontológicas - Asa Norte,SES/SRSCE/GSAS1/CEO-AN 
+552.34121,34121000000,Gerência de Serviços de Atenção Secundária 2,SES/SRSCE/DIRASE/GSAS2
+552.34121001,34121001000,Policlínica - Asa Sul,SES/SRSCE/GSAS2/POLIC-AS
+552.34121002,34121002000,Centro de Especialidades Odontológicas - Asa Sul Unidade I,SES/SRSCE/GSAS2/CEO-AS I
+552.341211,34121100000,Gerência de Serviços de Atenção Secundária 3,SES/SRSCE/DIRASE/GSAS3
+552.34121101,34121101000,Policlínica - Lago Sul,SES/SRSCE/GSAS3/POLIC-LS

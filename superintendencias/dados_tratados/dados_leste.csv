@@ -1,0 +1,130 @@
+552.400000000000,400000000000,Superintendência da Região de Saúde Leste,SES/SRSLE
+552.4001,40010000000,Núcleo de Ensino e Pesquisa,SES/SRSLE/NUEP
+552.4002,40020000000,Núcleo de Prevenção e Assistência a Situações de Violência,SES/SRSLE/NUPAV
+552.4003,40030000000,Diretoria Administrativa,SES/SRSLE/DA
+552.400301,40030100000,Gerência de Orçamento e Finanças,SES/SRSLE/DA/GEOF
+552.400302,40030200000,Gerência de Pessoas,SES/SRSLE/DA/GP
+552.40030201,40030201000,Núcleo de Controle de Escalas,SES/SRSLE/DA/GP/NCE
+552.40030202,40030202000,Núcleo de Educação Permanente em Saúde,SES/SRSLE/DA/GP/NEPS
+552.40030203,40030203000,Núcleo de Gestão de Pessoas das Unidades de Atenção Especializada da Região Leste,SES/SRSLE/DA/GP/NGPESP-LE
+552.40030205,40030205000,"Núcleo de Segurança, Higiene e Medicina do Trabalho no Paranoá",SES/SRSLE/DA/GP/NSHMT
+552.40030206,40030206000,Núcleo de Gestão de Pessoas das Unidades de Atenção Primária da Região Leste,SES/SRSLE/DA/GP/NGPAPS-LE
+552.40030507,40030207000,Núcleo de Gestão de Pessoas das Unidades de Atenção Secundária da Região Leste,SES/SRSLE/DA/GP/NGPSEC-LE
+552.400303,40030300000,Gerência de Apoio Operacional das Unidades de Atenção Especializada da Região Leste,SES/SRSLE/DA/GAOESP-LE
+552.40030301,40030301000,Núcleo de Atividades Gerais e Manutenção Predial,SES/SRSLE/DA/GAOESP-LE/NAGMP
+552.40030302,40030302000,Núcleo de Hotelaria em Saúde,SES/SRSLE/DA/GAOESP-LE/NHS
+552.40030303,40030303000,Núcleo de Farmácia Hospitalar,SES/SRSLE/DA/GAOESP-LE/NFH
+552.40030304,40030304000,Núcleo de Engenharia Clínica e Física Médica,SES/SRSLE/DA/GAOESP-LE/NECFM
+552.40030305,40030305000,Núcleo de Almoxarifado,SES/SRSLE/DA/GAOESP-LE/NUAL
+552.40030306,40030306000,Núcleo de Material Esterilizado,SES/SRSLE/DA/GAOESP-LE/NME
+552.40030307,40030307000,Núcleo de Patrimônio e Documentação Administrativa,SES/SRSLE/DA/GAOESP-LE/NPDOC
+552.40030308,40030308000,Núcleo de Transporte,SES/SRSLE/DA/GAOESP-LE/NT
+552.40030309,40030309000,Núcleo de Tecnologia da Informação,SES/SRSLE/DA/GAOESP-LE/NTINF
+552.400305,40030500000,Gerência de Apoio Operacional das Unidades de Atenção Primária da Região Leste,SES/SRSLE/DA/GAOAPS-LE
+552.40030501,40030501000,"Núcleo de Atividades Gerais, Manutenção Predial e Transporte",SES/SRSLE/DA/GAOAPS-LE/NAGPMT
+552.40030502,40030502000,Núcleo de Logística Farmacêutica,SES/SRSLE/DA/GAOAPS-LE/NLF
+552.40030503,40030503000,Núcleo de Almoxarifado,SES/SRSLE/DA/GAOAPS-LE/NUAL
+552.40030504,40030504000,Núcleo de Patrimônio e Documentação Administrativa,SES/SRSLE/DA/GAOAPS-LE/NPDOC
+552.40030505,40030505000,Núcleo de Tecnologia da Informação,SES/SRSLE/DA/GAOAPS-LE/NTINF
+552.40030506,40030506000,Núcleo de Hotelaria em Saúde,SES/SRSLE/DA/GAOAPS-LE/NHS
+552.4004,40040000000,Diretoria do Hospital da Região Leste,SES/SRSLE/HRL
+552.400401,40040100000,Ouvidoria,SES/SRSLE/HRL/OUVIDORIA
+552.400402,40040200000,Núcleo de Controle de Infecção Hospitalar,SES/SRSLE/HRL/NCIH
+552.400403,40040300000,Núcleo Hospitalar de Epidemiologia,SES/SRSLE/HRL/NHEP
+552.400404,40040400000,Núcleo de Qualidade e Segurança do Paciente,SES/SRSLE/HRL/NQSP
+552.400418,40041800000,Gerência de Emergência,SES/SRSLE/HRL/GEMERG
+552.400419,40041900000,Gerência de Enfermagem,SES/SRSLE/HRL/GENF
+552.40042,40042000000,Gerência de Assistência Multidisciplinar e Apoio Diagnóstico,SES/SRSLE/HRL/GAMAD
+552.40042001,40042001000,Núcleo de Banco de Leite Humano,SES/SRSLE/HRL/GAMAD/NBLH
+552.40042002,40042002000,Núcleo de Hematologia e Hemoterapia,SES/SRSLE/HRL/GAMAD/NHH
+552.40042003,40042003000,Núcleo de Patologia Clínica do Paranoá,SES/SRSLE/HRL/GAMAD/NUPAC-PAR
+552.40042004,40042004000,Núcleo de Patologia Clínica de São Sebastião,SES/SRSLE/HRL/GAMAD/NUPAC-SSB
+552.40042005,40042005000,Núcleo de Radiologia e Imagenologia,SES/SRSLE/HRL/GAMAD/NURI
+552.40042007,40042007000,Núcleo de Farmácia Clínica,SES/SRSLE/HRL/GAMAD/NFC
+552.40042008,40042008000,Núcleo de Nutrição e Dietética,SES/SRSLE/HRL/GAMAD/NND
+552.40042009,40042009000,Núcleo de Saúde Funcional,SES/SRSLE/HRL/GAMAD/NSF
+552.4004201,40042010000,Núcleo de Serviço Social,SES/SRSLE/HRL/GAMAD/NSS
+552.400421,40042100000,Gerência Interna de Regulação,SES/SRSLE/HRL/GIR
+552.40042101,40042101000,Núcleo de Recepção de Emergência,SES/SRSLE/HRL/GIR/NUREM
+552.40042102,40042102000,"Núcleo de Matrícula, Marcação de Consultas e Prontuário de Pacientes",SES/SRSLE/HRL/GIR/NMCP
+552.40042103,40042103000,Núcleo de Gestão da Internação,SES/SRSLE/HRL/GIR/NGINT
+552.40042104,40042104000,Núcleo de Apoio e Remoção de Pacientes,SES/SRSLE/HRL/GIR/NARP
+552.400422,40042200000,Gerência de Assistência Clínica,SES/SRSLE/HRL/GACL
+552.40042201,40042201000,Unidade de Medicina Interna,SES/SRSLE/HRL/GACL/UMEI
+552.40042202,40042202000,Unidade de Neonatologia,SES/SRSLE/HRL/GACL/UNEO
+552.40042203,40042203000,Unidade de Pediatria,SES/SRSLE/HRL/GACL/UPED
+552.40042204,40042204000,Unidade de Terapia Intensiva Adulto,SES/SRSLE/HRL/GACL/UTI ADU
+552.40042205,40042205000,Núcleo Regional de Atenção Domiciliar,SES/SRSLE/HRL/GACL/NRAD
+552.400423,40042300000,Gerência de Assistência Cirúrgica,SES/SRSLE/HRL/GACIR
+552.40042301,40042301000,Unidade de Anestesiologia e Medicina Perioperatória,SES/SRSLE/HRL/GACIR/UAMP
+552.40042302,40042302000,Unidade de Centro Cirúrgico,SES/SRSLE/HRL/GACIR/UCC
+552.40042303,40042303000,Unidade de Centro Obstétrico,SES/SRSLE/HRL/GACIR/UCOB
+552.40042304,40042304000,Unidade de Clínicas Cirúrgicas,SES/SRSLE/HRL/GACIR/UCLC
+552.40042305,40042305000,Unidade de Ginecologia e Obstetrícia,SES/SRSLE/HRL/GACIR/UGO
+552.40042306,40042306000,Unidade de Odontologia,SES/SRSLE/HRL/GACIR/UOD
+552.40042307,40042307000,Unidade de Oftalmologia,SES/SRSLE/HRL/GACIR/UOFT
+552.40042308,40042308000,Unidade de Traumatologia e Ortopedia,SES/SRSLE/HRL/GACIR/UTO
+552.400424,40042400000,"Gerência de Planejamento, Monitoramento e Avaliação",SES/SRSLE/HRL/GPMA
+552.40042401,40042401000,Núcleo de Captação e Análise de Informações do SUS,SES/SRSLE/HRL/GPMA/NCAIS
+552.40042402,40042402000,Núcleo de Gestão de Custos,SES/SRSLE/HRL/GPMA/NGC
+552.4005,40050000000,Diretoria Regional de Atenção Primária à Saúde,SES/SRSLE/DIRAPS
+552.400501,40050100000,Núcleo de Vigilância Epidemiológica e Imunização,SES/SRSLE/DIRAPS/NVEPI
+552.400502,40050200000,"Gerência de Planejamento, Monitoramento e Avaliação",SES/SRSLE/DIRAPS/GPMA
+552.40050201,40050201000,Núcleo de Captação e Análise de Informações do SUS,SES/SRSLE/DIRAPS/GPMA/NCAIS
+552.40050202,40050202000,Núcleo de Gestão de Custos,SES/SRSLE/DIRAPS/GPMA/NGC
+552.400504,40050400000,Gerência de Áreas Programáticas de Atenção Primária à Saúde,SES/SRSLE/DIRAPS/GAPAPS
+552.400505,40050500000,Gerência de Enfermagem,SES/SRSLE/DIRAPS/GENF
+552.400506,40050600000,Gerência de Regulação da Região de Saúde Leste,SES/SRSLE/DIRAPS/GERLE
+552.400507,40050700000,Gerência de Serviços de Atenção Primária Nº 1 do Paranoá,SES/SRSLE/DIRAPS/GSAP1-PAR
+552.40050701,40050701000,Unidade Básica de Saúde nº 1 do Paranoá,SES/SRSLE/GSAP1-PAR/UBS1-PAR
+552.400508,40050800000,Gerência de Serviços de Atenção Primária Nº 2 do Paranoá,SES/SRSLE/DIRAPS/GSAP2-PAR
+552.40050801,40050801000,Unidade Básica de Saúde nº 2 do Paranoá,SES/SRSLE/GSAP2-PAR/UBS2-PAR
+552.40050802,40050802000,Unidade Básica de Saúde nº 4 do Paranoá,SES/SRSLE/GSAP2-PAR/UBS4-PAR
+552.40050803,40050803000,Unidade Básica de Saúde nº 5 do Paranoá,SES/SRSLE/GSAP2-PAR/UBS5-PAR
+552.40050804,40050804000,Unidade Básica de Saúde nº 6 do Paranoá,SES/SRSLE/GSAP2-PAR/UBS6-PAR
+552.40050805,40050805000,Unidade Básica de Saúde nº 7 do Paranoá,SES/SRSLE/GSAP2-PAR/UBS7-PAR
+552.40050806,40050806000,Unidade Básica de Saúde nº 8 do Paranoá,SES/SRSLE/GSAP2-PAR/UBS8-PAR
+552.400509,40050900000,Gerência de Serviços de Atenção Primária Nº 1 do Itapoã,SES/SRSLE/DIRAPS/GSAP1-ITAPOÃ
+552.40050901,40050901000,Unidade Básica de Saúde nº 1 Itapoã,SES/SRSLE/GSAP1-ITAPOÃ/UBS1
+552.40051,40051000000,Gerência de Serviços de Atenção Primária Nº 2 do Itapoã,SES/SRSLE/DIRAPS/GSAP2-ITAPOÃ
+552.40051001,40051001000,Unidade Básica de Saúde nº 2 Itapoã,SES/SRSLE/GSAP2-ITAPOÃ/UBS2
+552.40051002,40051002000,Unidade Básica de Saúde nº 3 Itapoã,SES/SRSLE/GSAP2-ITAPOÃ/UBS3
+552.400511,40051100000,Gerência de Serviços de Atenção Primária Nº 3 do Paranoá,SES/SRSLE/DIRAPS/GSAP3-PAR
+552.40051101,40051101000,Unidade Básica de Saúde nº 3 do Paranoá,SES/SRSLE/GSAP3-PAR/UBS3-PAR
+552.400512,40051200000,Gerência de Serviços de Atenção Primária Nº 1 de São Sebastião,SES/SRSLE/DIRAPS/GSAP1-SSB
+552.40051201,40051201000,Unidade Básica de Saúde nº 1 de São Sebastião,SES/SRSLE/GSAP1-SSB/UBS1-SSB
+552.400513,40051300000,Gerência de Serviços de Atenção Primária Nº 2 de São Sebastião,SES/SRSLE/DIRAPS/GSAP2-SSB
+552.40051301,40051301000,Unidade Básica de Saúde nº 2 de São Sebastião,SES/SRSLE/GSAP2-SSB/UBS2-SSB
+552.40051302,40051302000,Unidade Básica de Saúde nº 3 de São Sebastião,SES/SRSLE/GSAP2-SSB/UBS3-SSB
+552.40051303,40051303000,Unidade Básica de Saúde nº 13 de São Sebastião,SES/SRSLE/GSAP2-SSB/UBS13-SSB
+552.40051304,40051304000,Unidade Básica de Saúde nº 19 de São Sebastião,SES/SRSLE/GSAP2-SSB/UBS19-SSB
+552.400514,40051400000,Gerência de Serviços de Atenção Primária Nº 3 de São Sebastião,SES/SRSLE/DIRAPS/GSAP3-SSB
+552.40051401,40051401000,Unidade Básica de Saúde nº 4 de São Sebastião,SES/SRSLE/GSAP3-SSB/UBS4-SSB
+552.40051402,40051402000,Unidade Básica de Saúde nº 5 de São Sebastião,SES/SRSLE/GSAP3-SSB/UBS5-SSB
+552.40051403,40051403000,Unidade Básica de Saúde nº 6 de São Sebastião,SES/SRSLE/GSAP3-SSB/UBS6-SSB
+552.40051404,40051404000,Unidade Básica de Saúde nº 7 de São Sebastião,SES/SRSLE/GSAP3-SSB/UBS7-SSB
+552.40051405,40051405000,Unidade Básica de Saúde nº 8 de São Sebastião,SES/SRSLE/GSAP3-SSB/UBS8-SSB
+552.400515,40051500000,Gerência de Serviços de Atenção Primária Nº 4 de São Sebastião,SES/SRSLE/DIRAPS/GSAP4-SSB
+552.40051501,40051501000,Unidade Básica de Saúde nº 9 de São Sebastião,SES/SRSLE/GSAP4-SSB/UBS9-SSB
+552.40051502,40051502000,Unidade Básica de Saúde nº 10 de São Sebastião,SES/SRSLE/GSAP4-SSB/UBS10-SSB
+552.40051503,40051503000,Unidade Básica de Saúde nº 11 de São Sebastião,SES/SRSLE/GSAP4-SSB/UBS11-SSB
+552.40051504,40051504000,Unidade Básica de Saúde nº 12 de São Sebastião,SES/SRSLE/GSAP4-SSB/UBS12-SSB
+552.400516,40051600000,Gerência de Serviços de Atenção Primária na Prisional,SES/SRSLE/DIRAPS/GSAPP
+552.40051601,40051601000,Unidade Básica de Saúde nº 14 de São Sebastião,SES/SRSLE/GSAPP/UBS14-SSB
+552.40051602,40051602000,Unidade Básica de Saúde nº 15 de São Sebastião,SES/SRSLE/GSAPP/UBS15-SSB
+552.40051603,40051603000,Unidade Básica de Saúde nº 16 de São Sebastião,SES/SRSLE/GSAPP/UBS16-SSB
+552.40051604,40051604000,Unidade Básica de Saúde nº 17 de São Sebastião,SES/SRSLE/GSAPP/UBS17-SSB
+552.400517,40051700000,Gerência de Acesso e Qualidade em Atenção Primária à Saúde,SES/SRSLE/DIRAPS/GEAQAPS
+552.401,40100000000,Assessoria de Planejamento em Saúde,SES/SRSLE/ASPLAN
+552.4011,40110000000,Diretoria Regional de Atenção Secundária,SES/SRSLE/DIRASE
+552.401101,40110100000,"Gerência de Planejamento, Monitoramento e Avaliação",SES/SRSLE/DIRASE/GPMA
+552.40110101,40110101000,Núcleo de Captação e Análise de Informações do SUS,SES/SRSLE/DIRASE/GPMA/NCAIS
+552.40110102,40110102000,Núcleo de Gestão de Custos,SES/SRSLE/DIRASE/GPMA/NGC
+552.401102,40110200000,Centro de Atenção Psicossocial Caps II Paranoá,SES/SRSLE/DIRASE/CAPS II-PAR
+552.401103,40110300000,Centro de Atenção Psicossocial Caps Ad Paranoá,SES/SRSLE/DIRASE/CAPS AD -PAR
+552.401104,40110400000,Gerência da Casa de Parto de São Sebastião,SES/SRSLE/DIRASE/CPSS
+552.401105,40110500000,UPA São Sebastião,SES/SRSLE/DIRASE/UPA -SSB
+552.401106,40110600000,Gerência de Serviços de Atenção Secundária 1,SES/SRSLE/DIRASE/GSAS1
+552.40110601,40110601000,Policlínica - São Sebastião,SES/SRSLE/GSAS1/POLIC-SSB
+552.40110602,40110602000,Policlínica - Paranoá,SES/SRSLE/GSAS1/POLIC-PAR
+552.40110603,40110603000,Centro de Especializades Odontológicas - Paranoá,SES/SRSLE/GSAS1/CEO-PAR

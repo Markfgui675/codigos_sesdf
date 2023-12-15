@@ -1,0 +1,117 @@
+552.350000000000,350000000000,Superintendência da Região de Saúde Centro-Sul,SES/SRSCS
+552.3501,35010000000,Núcleo de Ensino e Pesquisa,SES/SRSCS/NUEP
+552.3502,35020000000,Núcleo de Prevenção e Assistência a Situações de Violência,SES/SRSCS/NUPAV
+552.3503,35030000000,Diretoria Administrativa,SES/SRSCS/DA
+552.350301,35030100000,Gerência de Orçamento e Finanças,SES/SRSCS/DA/GEOF
+552.350302,35030200000,Gerência de Pessoas das Unidades de Atenção Especializada da Região Centro-Sul,SES/SRSCS/DA/GPESP
+552.35030201,35030201000,Núcleo de Controle de Escalas,SES/SRSCS/DA/GPESP/NCE
+552.35030202,35030202000,Núcleo de Educação Permanente em Saúde,SES/SRSCS/DA/GPESP/NEPS
+552.35030204,35030204000,Núcleo de Gestão de Pessoas das Unidades de Atenção Especializada no Guará,SES/SRSCS/DA/GPESP/NGPESP-GUA
+552.35030206,35030206000,"Núcleo de Segurança, Higiene e Medicina do Trabalho no Guará",SES/SRSCS/DA/GPESP/NSHMT-GUA
+552.350303,35030300000,Gerência de Pessoas das Unidades de Atenção Primária da Região Centro-Sul,SES/SRSCS/DA/GPAPS-CS
+552.35030301,35030301000,Núcleo de Controle de Escalas,SES/SRSCS/DA/GPAPS-CS/NCE
+552.35030302,35030302000,Núcleo de Gestão de Pessoas das Unidades de Atenção Primária da Região Centro-Sul,SES/SRSCS/DA/GPAPS-CS/NGPAPS
+552.35030303,35030303000,"Núcleo de Segurança, Higiene e Medicina do Trabalho no Núcleo Bandeirante",SES/SRSCS/DA/GPAPS-CS/NSHMT-NB
+552.35030304,35030304000,Núcleo de Gestão de Pessoas das Unidades de Atenção Secundária da Região Centro-Sul,SES/SRSCS/DA/GPAPS-CS/NGPSEC
+552.350305,35030500000,Gerência de Apoio Operacional das Unidades de Atenção Especializada no Guará,SES/SRSCS/DA/GAOESP-GUA
+552.35030501,35030501000,Núcleo de Atividades Gerais e Manutenção Predial,SES/SRSCS/DA/GAOESP-GUA/NAGMP
+552.35030502,35030502000,Núcleo de Hotelaria em Saúde,SES/SRSCS/DA/GAOESP-GUA/NHS
+552.35030503,35030503000,Núcleo de Farmácia Hospitalar,SES/SRSCS/DA/GAOESP-GUA/NFH
+552.35030504,35030504000,Núcleo de Engenharia Clínica e Física Médica,SES/SRSCS/DA/GAOESP-GUA/NECFM
+552.35030505,35030505000,Núcleo de Almoxarifado,SES/SRSCS/DA/GAOESP-GUA/NUAL
+552.35030506,35030506000,Núcleo de Patrimônio e Documentação Administrativa,SES/SRSCS/DA/GAOESP-GUA/NPDOC
+552.35030507,35030507000,Núcleo de Transporte,SES/SRSCS/DA/GAOESP-GUA/NT
+552.35030508,35030508000,Núcleo de Tecnologia da Informação,SES/SRSCS/DA/GAOESP-GUA/NTINF
+552.35030509,35030509000,Núcleo de Material Esterilizado,SES/SRSCS/DA/GAOESP-GUA/NME
+552.350306,35030600000,Gerência de Apoio Operacional das Unidades de Atenção Primária da Região Centro-Sul,SES/SRSCS/DA/GAOAPS-CS
+552.35030601,35030601000,"Núcleo de Atividades Gerais, Manutenção Predial e Transporte",SES/SRSCS/DA/GAOAPS-CS/NAGMPT
+552.35030602,35030602000,Núcleo de Logística Farmacêutica,SES/SRSCS/DA/GAOAPS-CS/NLF
+552.35030603,35030603000,Núcleo de Hotelaria em Saúde,SES/SRSCS/DA/GAOAPS-CS/NHS
+552.35030604,35030604000,Núcleo de Almoxarifado,SES/SRSCS/DA/GAOAPS-CS/NUAL
+552.35030605,35030605000,Núcleo de Patrimônio e Documentação Administrativa,SES/SRSCS/DA/GAOAPS-CS/NPDOC
+552.35030606,35030606000,Núcleo de Tecnologia da Informação,SES/SRSCS/DA/GAOAPS-CS/NTINF
+552.3505,35050000000,Diretoria do Hospital Regional do Guará,SES/SRSCS/HRGU
+552.350501,35050100000,Ouvidoria,SES/SRSCS/HRGU/OUVIDORIA
+552.350502,35050200000,Núcleo de Controle de Infecção Hospitalar,SES/SRSCS/HRGU/NCIH
+552.350503,35050300000,Núcleo Hospitalar de Epidemiologia,SES/SRSCS/HRGU/NHEP
+552.350504,35050400000,Núcleo de Qualidade e Segurança do Paciente,SES/SRSCS/HRGU/NQSP
+552.350511,35051100000,Gerência de Emergência,SES/SRSCS/HRGU/GEMERG
+552.350512,35051200000,Gerência de Enfermagem,SES/SRSCS/HRGU/GENF
+552.350513,35051300000,Gerência de Assistência Multidisciplinar e Apoio Diagnóstico,SES/SRSCS/HRGU/GAMAD
+552.35051301,35051301000,Núcleo de Patologia Clínica,SES/SRSCS/HRGU/GAMAD/NUPAC
+552.35051302,35051302000,Núcleo de Radiologia e Imagenologia,SES/SRSCS/HRGU/GAMAD/NURI
+552.35051303,35051303000,Núcleo de Farmácia Clínica,SES/SRSCS/HRGU/GAMAD/NFC
+552.35051304,35051304000,Núcleo de Nutrição e Dietética,SES/SRSCS/HRGU/GAMAD/NND
+552.35051305,35051305000,Núcleo de Saúde Funcional,SES/SRSCS/HRGU/GAMAD/NSF
+552.35051306,35051306000,Núcleo de Serviço Social,SES/SRSCS/HRGU/GAMAD/NSS
+552.350514,35051400000,Gerência Interna de Regulação,SES/SRSCS/HRGU/GIR
+552.35051401,35051401000,Núcleo de Recepção de Emergência,SES/SRSCS/HRGU/GIR/NUREM
+552.35051402,35051402000,"Núcleo de Matrícula, Marcação de Consultas e Prontuário de Pacientes",SES/SRSCS/HRGU/GIR/NMCP
+552.35051403,35051403000,Núcleo de Gestão da Internação,SES/SRSCS/HRGU/GIR/NGINT
+552.35051404,35051404000,Núcleo de Apoio e Remoção de Pacientes,SES/SRSCS/HRGU/GIR/NARP
+552.350515,35051500000,Gerência de Assistência Clínica,SES/SRSCS/HRGU/GACL
+552.35051501,35051501000,Unidade de Ginecologia e Obstetrícia,SES/SRSCS/HRGU/GACL/UGO
+552.35051502,35051502000,Unidade de Medicina Interna,SES/SRSCS/HRGU/GACL/UMEI
+552.35051503,35051503000,Unidade de Odontologia,SES/SRSCS/HRGU/GACL/UOD
+552.35051504,35051504000,Unidade de Pediatria,SES/SRSCS/HRGU/GACL/UPED
+552.35051505,35051505000,Núcleo Regional de Atenção Domiciliar,SES/SRSCS/HRGU/GACL/NRAD
+552.350516,35051600000,"Gerência de Planejamento, Monitoramento e Avaliação",SES/SRSCS/HRGU/GPMA
+552.35051601,35051601000,Núcleo de Captação e Análise de Informações do SUS,SES/SRSCS/HRGU/GPMA/NCAIS
+552.35051602,35051602000,Núcleo de Gestão de Custos,SES/SRSCS/HRGU/GPMA/NGC
+552.3506,35060000000,Diretoria Regional de Atenção Primária à Saúde,SES/SRSCS/DIRAPS
+552.350601,35060100000,Núcleo de Vigilância Epidemiológica e Imunização,SES/SRSCS/DIRAPS/NVEPI
+552.350602,35060200000,"Gerência de Planejamento, Monitoramento e Avaliação",SES/SRSCS/DIRAPS/GPMA
+552.35060201,35060201000,Núcleo de Captação e Análise de Informações do SUS,SES/SRSCS/DIRAPS/GPMA/NCAIS
+552.35060202,35060202000,Núcleo de Gestão de Custos,SES/SRSCS/DIRAPS/GPMA/NGC
+552.350604,35060400000,Gerência de Áreas Programáticas de Atenção Primária à Saúde,SES/SRSCS/DIRAPS/GAPAPS
+552.350605,35060500000,Gerência de Enfermagem,SES/SRSCS/DIRAPS/GENF
+552.350606,35060600000,Gerência de Regulação da Região de Saúde Centro-Sul,SES/SRSCS/DIRAPS/GERCS
+552.35061,35061000000,Gerência de Serviços de Atenção Primária Nº 1 do Guará,SES/SRSCS/DIRAPS/GSAP1-GUA
+552.35061001,35061001000,Unidade Básica de Saúde nº 1 do Guará,SES/SRSCS/GSAP1-GUA/UBS1-GUA
+552.350611,35061100000,Gerência de Serviços de Atenção Primária Nº 2 do Guará,SES/SRSCS/DIRAPS/GSAP2-GUA
+552.35061101,35061101000,Unidade Básica de Saúde nº 2 do Guará,SES/SRSCS/GSAP2-GUA/UBS2-GUA
+552.350612,35061200000,Gerência de Serviços de Atenção Primária Nº 3 do Guará,SES/SRSCS/DIRAPS/GSAP3-GUA
+552.35061201,35061201000,Unidade Básica de Saúde nº 3 do Guará,SES/SRSCS/GSAP3-GUA/UBS3-GUA
+552.35061202,35061202000,Unidade Básica de Saúde nº 5 do Guará,SES/SRSCS/GSAP3-GUA/UBS5-GUA
+552.350613,35061300000,Gerência de Serviços de Atenção Primária Nº 1 da Estrutural,SES/SRSCS/DIRAPS/GSAP1-ESTR
+552.35061301,35061301000,Unidade Básica de Saúde nº 1 da Estrutural,SES/SRSCS/GSAP1-ESTR/UBS1-ESTR
+552.35061302,35061302000,Unidade Básica de Saúde nº 2 da Estrutural,SES/SRSCS/GSAP1-ESTR/UBS2-ESTR
+552.35061303,35061303000,Unidade Básica de Saúde nº 3 da Estrutural,SES/SRSCS/GSAP1-ESTR/UBS3-ESTR
+552.350614,35061400000,Gerência de Serviços de Atenção Primária Nº 4 do Guará,SES/SRSCS/DIRAPS/GSAP4 GUA
+552.35061401,35061401000,Unidade Básica de Saúde nº 4 do Guará,SES/SRSCS/GSAP4-GUA/UBS4-GUA
+552.35061402,35061402000,Unidade Básica de Saúde nº 1 do SIA ,SES/SRSCS/GSAP4-GUA/UBS1-SIA 
+552.350615,35061500000,Gerência de Serviços de Atenção Primária Nº 1 da Candangolândia,SES/SRSCS/DIRAPS/GSAP1-CAN
+552.35061501,35061501000,Unidade Básica de Saúde nº 1 da Candangolândia,SES/SRSCS/GSAP1-CAN/UBS1-CAN
+552.350616,35061600000,Gerência de Serviços de Atenção Primária Nº 1 do Núcleo Bandeirante,SES/SRSCS/DIRAPS/GSAP1-NB
+552.35061601,35061601000,Unidade Básica de Saúde nº 1 do Bandeirante,SES/SRSCS/GSAP1-NB/UBS1-NB
+552.35061602,35061602000,Unidade Básica de Saúde nº 2 do Bandeirante,SES/SRSCS/GSAP1-NB/UBS2-NB
+552.350617,35061700000,Gerência de Serviços de Atenção Primária Nº 1 do Riacho Fundo I,SES/SRSCS/DIRAPS/GSAP1-RF I
+552.35061701,35061701000,Unidade Básica de Saúde nº 1 do Riacho Fundo I,SES/SRSCS/GSAP1-RF I/UBS1-RF I
+552.350618,35061800000,Gerência de Serviços de Atenção Primária Nº 1 do Riacho Fundo II,SES/SRSCS/DIRAPS/GSAP1-RF II
+552.35061801,35061801000,Unidade Básica de Saúde nº 1 do Riacho Fundo II,SES/SRSCS/GSAP1-RF II/UBS1-RF2
+552.35061802,35061802000,Unidade Básica de Saúde nº 4 do Riacho Fundo II,SES/SRSCS/GSAP1-RF II/UBS4-RF2
+552.350619,35061900000,Gerência de Serviços de Atenção Primária Nº 2 Do Riacho Fundo II,SES/SRSCS/DIRAPS/GSAP2-RF II
+552.35061901,35061901000,Unidade Básica de Saúde nº 2 do Riacho Fundo II,SES/SRSCS/GSAP2-RF II/UBS2-RF2
+552.35061902,35061902000,Unidade Básica de Saúde nº 3 do Riacho Fundo II,SES/SRSCS/GSAP2-RF II/UBS3-RF2
+552.35061903,35061903000,Unidade Básica de Saúde nº 5 do Riacho Fundo II,SES/SRSCS/GSAP2-RF II/UBS5-RF2
+552.35062,35062000000,Gerência de Serviços de Atenção Primária Nº 2 do Riacho Fundo I,SES/SRSCS/DIRAPS/GSAP2-RF I
+552.35062001,35062001000,Unidade Básica de Saúde nº 1 do Park Way,SES/SRSCS/GSAP2-RF I/UBS1-PW
+552.35062002,35062002000,Unidade Básica de Saúde nº 2 do Riacho Fundo I,SES/SRSCS/GSAP2-RF I/UBS2-RF I
+552.35063,35063000000,Gerência de Acesso e Qualidade em Atenção Primária à Saúde,SES/SRSCS/DIRAPS/GEAQAPS
+552.3513,35130000000,Assessoria de Planejamento em Saúde,SES/SRSCS/ASPLAN
+552.3514,35140000000,Diretoria Regional de Atenção Secundária,SES/SRSCS/DIRASE
+552.351401,35140100000,"Gerência de Planejamento, Monitoramento e Avaliação",SES/SRSCS/DIRASE/GPMA
+552.35140101,35140101000,Núcleo de Captação e Análise de Informações do SUS,SES/SRSCS/DIRASE/GPMA/NCAIS
+552.35140102,35140102000,Núcleo de Gestão de Custos,SES/SRSCS/DIRASE/GPMA/NGC
+552.3515,35150000000,Centro de Atenção Psicossocial Caps Ad Guará,SES/SRSCS/DIRASE/CAPS AD-GUA
+552.3516,35160000000,Centro de Atenção Psicossocial Caps III Riacho Fundo,SES/SRSCS/DIRASE/CAPS III -RF
+552.3517,35170000000,Instituto de Saúde Mental,SES/SRSCS/DIRASE/ISM
+552.3518,35180000000,UPA Núcleo Bandeirante,SES/SRSCS/DIRASE/UPA -NB
+552.3519,35190000000,Gerência de Serviços de Atenção Secundária 1,SES/SRSCS/DIRASE/GSAS1
+552.351901,35190100000,Policínica - Riacho Fundo I Unidade I,SES/SRSCS/GSAS1/POLIC-RF I -I
+552.351902,35190200000,Policínica - Riacho Fundo I Unidade II,SES/SRSCS/GSAS1/POLIC-RF I -II
+552.352,35200000000,Gerência de Serviços de Atenção Secundária 2,SES/SRSCS/DIRASE/GSAS2
+552.352001,35200100000,Laboratório Regional do Guará,SES/SRSCS/DIRASE/GSAS2/LRGU
+552.352002,35200200000,Policlínica - Núcleo Bandeirante,SES/SRSCS/GSAS2/POLIC-NB
+552.352003,35200300000,Policlínica - Guará I,SES/SRSCS/GSAS2/POLIC-GUARA I
+552.352004,35200400000,Centro de Especialidades Odontológicas - Guará I,SES/SRSCS/GSAS2/CEO-GUARA I

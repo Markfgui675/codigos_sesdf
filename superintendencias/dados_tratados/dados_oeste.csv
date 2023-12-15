@@ -1,0 +1,185 @@
+552.360000000000,360000000000,Superintendência da Região de Saúde Oeste,SES/SRSOE
+552.3601,36010000000,Núcleo de Ensino e Pesquisa,SES/SRSOE/NUEP
+552.3602,36020000000,Núcleo de Prevenção e Assistência a Situações de Violência,SES/SRSOE/NUPAV
+552.3603,36030000000,Diretoria Administrativa,SES/SRSOE/DA
+552.360301,36030100000,Gerência de Orçamento e Finanças,SES/SRSOE/DA/GEOF
+552.360302,36030200000,Gerência de Pessoas,SES/SRSOE/DA/GP
+552.36030201,36030201000,Núcleo de Controle de Escalas,SES/SRSOE/DA/GP/NCE
+552.36030202,36030202000,Núcleo de Educação Permanente em Saúde,SES/SRSOE/DA/GP/NEPS
+552.36030203,36030203000,Núcleo de Gestão de Pessoas das Unidades de Atenção Especializada na Ceilândia,SES/SRSOE/DA/GP/NGPESP-CEI
+552.36030204,36030204000,Núcleo de Gestão de Pessoas das Unidades de Atenção Especializada em Brazlândia,SES/SRSOE/DA/GP/NGPESP-BRZ
+552.36030205,36030205000,"Núcleo de Segurança, Higiene e Medicina do Trabalho na Ceilândia",SES/SRSOE/DA/GP/NSHMT-CEI
+552.36030206,36030206000,"Núcleo de Segurança, Higiene e Medicina do Trabalho em Brazlândia",SES/SRSOE/DA/GP/NSHMT-BRZ
+552.36030207,36030207000,Núcleo de Gestão de Pessoas das Unidades de Atenção Primária da Região Oeste,SES/SRSOE/DA/GP/NGPAPS-OE
+552.36030208,36030208000,Núcleo de Gestão de Pessoas das Unidades de Atenção Secundária da Região Oeste,SES/SRSOE/DA/GP/NGPSEC-OE
+552.360303,36030300000,Gerência de Apoio Operacional das Unidades de Atenção Especializada na Ceilândia,SES/SRSOE/DA/GAOESP-CEI
+552.36030301,36030301000,Núcleo de Atividades Gerais e Manutenção Predial,SES/SRSOE/DA/GAOESP-CEI/NAGMP
+552.36030302,36030302000,Núcleo de Hotelaria em Saúde,SES/SRSOE/DA/GAOESP-CEI/NHS
+552.36030303,36030303000,Núcleo de Farmácia Hospitalar,SES/SRSOE/DA/GAOESP-CEI/NFH
+552.36030304,36030304000,Núcleo de Engenharia Clínica e Física Médica,SES/SRSOE/DA/GAOESP-CEI/NECFM
+552.36030305,36030305000,Núcleo de Almoxarifado,SES/SRSOE/DA/GAOESP-CEI/NUAL
+552.36030306,36030306000,Núcleo de Material Esterilizado,SES/SRSOE/DA/GAOESP-CEI/NME
+552.36030307,36030307000,Núcleo de Patrimônio e Documentação Administrativa,SES/SRSOE/DA/GAOESP-CEI/NPDOC
+552.36030308,36030308000,Núcleo de Transporte,SES/SRSOE/DA/GAOESP-CEI/NT
+552.36030309,36030309000,Núcleo de Tecnologia da Informação,SES/SRSOE/DA/GAOESP-CEI/NTINF
+552.360304,36030400000,Gerência de Apoio Operacional das Unidades de Atenção Especializada em Brazlândia,SES/SRSOE/DA/GAOESP-BRZ
+552.36030401,36030401000,Núcleo de Atividades Gerais e Manutenção Predial,SES/SRSOE/DA/GAOESP-BRZ/NAGMP
+552.36030402,36030402000,Núcleo de Hotelaria em Saúde,SES/SRSOE/DA/GAOESP-BRZ/NHS
+552.36030403,36030403000,Núcleo de Farmácia Hospitalar,SES/SRSOE/DA/GAOESP-BRZ/NFH
+552.36030404,36030404000,Núcleo de Engenharia Clínica e Física Médica,SES/SRSOE/DA/GAOESP-BRZ/NECFM
+552.36030405,36030405000,Núcleo de Almoxarifado,SES/SRSOE/DA/GAOESP-BRZ/NUAL
+552.36030406,36030406000,Núcleo de Material Esterilizado,SES/SRSOE/DA/GAOESP-BRZ/NME
+552.36030407,36030407000,Núcleo de Patrimônio e Documentação Administrativa,SES/SRSOE/DA/GAOESP-BRZ/NPDOC
+552.36030408,36030408000,Núcleo de Transporte,SES/SRSOE/DA/GAOESP-BRZ/NT
+552.36030409,36030409000,Núcleo de Tecnologia da Informação,SES/SRSOE/DA/GAOESP-BRZ/NTINF
+552.360305,36030500000,Gerência de Apoio Operacional das Unidades de Atenção Primária da Região Oeste,SES/SRSOE/DA/GAOAPS-OE
+552.36030501,36030501000,"Núcleo de Atividades Gerais, Manutenção Predial e Transporte",SES/SRSOE/DA/GAOAPS-OE/NAGMPT
+552.36030502,36030502000,Núcleo de Logística Farmacêutica,SES/SRSOE/DA/GAOAPS-OE/NLF
+552.36030503,36030503000,Núcleo de Hotelaria em Saúde,SES/SRSOE/DA/GAOAPS-OE/NHS
+552.36030504,36030504000,Núcleo de Almoxarifado,SES/SRSOE/DA/GAOAPS-OE/NUAL
+552.36030505,36030505000,Núcleo de Patrimônio e Documentação Administrativa,SES/SRSOE/DA/GAOAPS-OE/NPDOC
+552.36030506,36030506000,Núcleo de Tecnologia da Informação,SES/SRSOE/DA/GAOAPS-OE/NTINF
+552.3604,36040000000,Diretoria do Hospital Regional da Ceilândia,SES/SRSOE/HRC
+552.360401,36040100000,Ouvidoria,SES/SRSOE/HRC/OUVIDORIA
+552.360402,36040200000,Núcleo de Controle de Infecção Hospitalar,SES/SRSOE/HRC/NCIH
+552.360403,36040300000,Núcleo Hospitalar de Epidemiologia,SES/SRSOE/HRC/NHEP
+552.360404,36040400000,Núcleo de Qualidade e Segurança do Paciente,SES/SRSOE/HRC/NQSP
+552.360418,36041800000,Gerência de Emergência,SES/SRSOE/HRC/GEMERG
+552.360419,36041900000,Gerência de Enfermagem,SES/SRSOE/HRC/GENF
+552.36042,36042000000,Gerência de Assistência Multidisciplinar e Apoio Diagnóstico,SES/SRSOE/HRC/GAMAD
+552.36042001,36042001000,Núcleo de Banco de Leite Humano,SES/SRSOE/HRC/GAMAD/NBLH
+552.36042002,36042002000,Núcleo de Hematologia e Hemoterapia,SES/SRSOE/HRC/GAMAD/NHH
+552.36042003,36042003000,Núcleo de Patologia Clínica,SES/SRSOE/HRC/GAMAD/NUPAC
+552.36042004,36042004000,Núcleo de Radiologia e Imagenologia,SES/SRSOE/HRC/GAMAD/NURI
+552.36042005,36042005000,Núcleo de Citopatologia e Anatomia Patológica,SES/SRSOE/HRC/GAMAD/NUCAP
+552.36042006,36042006000,Núcleo de Farmácia Clínica,SES/SRSOE/HRC/GAMAD/NFC
+552.36042007,36042007000,Núcleo de Nutrição e Dietética,SES/SRSOE/HRC/GAMAD/NND
+552.36042008,36042008000,Núcleo de Saúde Funcional,SES/SRSOE/HRC/GAMAD/NSF
+552.36042009,36042009000,Núcleo de Serviço Social,SES/SRSOE/HRC/GAMAD/NSS
+552.360421,36042100000,Gerência Interna de Regulação,SES/SRSOE/HRC/GIR
+552.36042101,36042101000,Núcleo de Recepção de Emergência,SES/SRSOE/HRC/GIR/NUREM
+552.36042102,36042102000,"Núcleo de Matrícula, Marcação de Consultas e Prontuário de Pacientes",SES/SRSOE/HRC/GIR/NMCP
+552.36042103,36042103000,Núcleo de Gestão da Internação,SES/SRSOE/HRC/GIR/NGINT
+552.36042104,36042104000,Núcleo de Apoio e Remoção de Pacientes,SES/SRSOE/HRC/GIR/NARP
+552.360422,36042200000,Gerência de Assistência Clínica,SES/SRSOE/HRC/GACL
+552.36042201,36042201000,Unidade de Medicina Interna,SES/SRSOE/HRC/GACL/UMEI
+552.36042202,36042202000,Unidade de Neonatologia,SES/SRSOE/HRC/GACL/UNEO
+552.36042203,36042203000,Unidade de Pediatria,SES/SRSOE/HRC/GACL/UPED
+552.36042204,36042204000,Unidade de Terapia Intensiva Adulto,SES/SRSOE/HRC/GACL/UTI ADU
+552.36042205,36042205000,Núcleo Regional de Atenção Domiciliar,SES/SRSOE/HRC/GACL/NRAD
+552.360423,36042300000,Gerência de Assistência Cirúrgica,SES/SRSOE/HRC/GACIR
+552.36042301,36042301000,Unidade de Anestesiologia e Medicina Perioperatória,SES/SRSOE/HRC/GACIR/UAMP
+552.36042302,36042302000,Unidade de Centro Cirúrgico,SES/SRSOE/HRC/GACIR/UCC
+552.36042303,36042303000,Unidade de Centro Obstétrico,SES/SRSOE/HRC/GACIR/UCOB
+552.36042304,36042304000,Unidade de Clínicas Cirúrgicas,SES/SRSOE/HRC/GACIR/UCLC
+552.36042305,36042305000,Unidade de Ginecologia e Obstetrícia,SES/SRSOE/HRC/GACIR/UGO
+552.36042306,36042306000,Unidade de Odontologia,SES/SRSOE/HRC/GACIR/UOD
+552.36042307,36042307000,Unidade de Traumatologia e Ortopedia,SES/SRSOE/HRC/GACIR/UTO
+552.360424,36042400000,"Gerência de Planejamento, Monitoramento e Avaliação",SES/SRSOE/HRC/GPMA
+552.36042401,36042401000,Núcleo de Captação e Análise de Informações do SUS,SES/SRSOE/HRC/GPMA/NCAIS
+552.36042402,36042402000,Núcleo de Gestão de Custos,SES/SRSOE/HRC/GPMA/NGC
+552.3605,36050000000,Diretoria do Hospital Regional de Brazlândia,SES/SRSOE/HRBZ
+552.360501,36050100000,Ouvidoria,SES/SRSOE/HRBZ/OUVIDORIA
+552.360502,36050200000,Núcleo de Controle de Infecção Hospitalar,SES/SRSOE/HRBZ/NCIH
+552.360503,36050300000,Núcleo Hospitalar de Epidemiologia,SES/SRSOE/HRBZ/NHEP
+552.360504,36050400000,Núcleo de Qualidade e Segurança do Paciente,SES/SRSOE/HRBZ/NQSP
+552.360514,36051400000,Gerência de Emergência,SES/SRSOE/HRBZ/GEMERG
+552.360515,36051400000,Gerência de Enfermagem,SES/SRSOE/HRBZ/GENF
+552.360516,36051600000,Gerência de Assistência Multidisciplinar e Apoio Diagnóstico,SES/SRSOE/HRBZ/GAMAD
+552.36051601,36051601000,Núcleo de Banco de Leite Humano,SES/SRSOE/HRBZ/GAMAD/NBLH
+552.36051602,36051602000,Núcleo de Patologia Clínica,SES/SRSOE/HRBZ/GAMAD/NUPAC
+552.36051603,36051603000,Núcleo de Radiologia e Imagenologia,SES/SRSOE/HRBZ/GAMAD/NURI
+552.36051604,36051604000,Núcleo de Farmácia Clínica,SES/SRSOE/HRBZ/GAMAD/NFC
+552.36051605,36051605000,Núcleo de Nutrição e Dietética,SES/SRSOE/HRBZ/GAMAD/NND
+552.36051606,36051606000,Núcleo de Saúde Funcional,SES/SRSOE/HRBZ/GAMAD/NSF
+552.36051607,36051607000,Núcleo de Serviço Social,SES/SRSOE/HRBZ/GAMAD/NSS
+552.360517,36051700000,Gerência Interna de Regulação,SES/SRSOE/HRBZ/GIR
+552.36051701,36051701000,Núcleo de Recepção de Emergência,SES/SRSOE/HRBZ/GIR/NUREM
+552.36051702,36051702000,"Núcleo de Matrícula, Marcação de Consultas e Prontuário de Pacientes",SES/SRSOE/HRBZ/GIR/NMCP
+552.36051703,36051703000,Núcleo de Gestão da Internação,SES/SRSOE/HRBZ/GIR/NGINT
+552.36051704,36051704000,Núcleo de Apoio e Remoção de Pacientes,SES/SRSOE/HRBZ/GIR/NARP
+552.360518,36051800000,Gerência de Assistência Clínica,SES/SRSOE/HRBZ/GACL
+552.36051801,36051801000,Unidade de Medicina Interna,SES/SRSOE/HRBZ/GACL/UMEI
+552.36051802,36051802000,Unidade de Pediatria,SES/SRSOE/HRBZ/GACL/UPED
+552.36051803,36051803000,Núcleo Regional de Atenção Domiciliar,SES/SRSOE/HRBZ/GACL/NRAD
+552.360519,36051900000,Gerência de Assistência Cirúrgica,SES/SRSOE/HRBZ/GACIR
+552.36051901,36051901000,Unidade de Anestesiologia e Medicina Perioperatória,SES/SRSOE/HRBZ/GACIR/UAMP
+552.36051902,36051902000,Unidade de Centro Cirúrgico E Obstétrico,SES/SRSOE/HRBZ/GACIR/UCCO
+552.36051903,36051903000,Unidade de Clínicas Cirúrgicas,SES/SRSOE/HRBZ/GACIR/UCLC
+552.36051904,36051904000,Unidade de Ginecologia e Obstetrícia,SES/SRSOE/HRBZ/GACIR/UGO
+552.36051905,36051905000,Unidade de Odontologia,SES/SRSOE/HRBZ/GACIR/UOD
+552.36052,36052000000,"Gerência de Planejamento, Monitoramento e Avaliação",SES/SRSOE/HRBZ/GPMA
+552.36052001,36052001000,Núcleo de Captação e Análise de Informações do SUS,SES/SRSOE/HRBZ/GPMA/NCAIS
+552.36052002,36052002000,Núcleo de Gestão de Custos,SES/SRSOE/HRBZ/GPMA/NGC
+552.3606,36060000000,Diretoria Regional de Atenção Primária à Saúde,SES/SRSOE/DIRAPS
+552.360601,36060100000,Núcleo de Vigilância Epidemiológica e Imunização,SES/SRSOE/DIRAPS/NVEPI
+552.360602,36060200000,"Gerência de Planejamento, Monitoramento e Avaliação",SES/SRSOE/DIRAPS/GPMA
+552.36060201,36060201000,Núcleo de Captação e Análise de Informações do SUS,SES/SRSOE/DIRAPS/GPMA/NCAIS
+552.36060202,36060202000,Núcleo de Gestão de Custos,SES/SRSOE/DIRAPS/GPMA/NGC
+552.360604,36060400000,Gerência de Áreas Programáticas de Atenção Primária à Saúde,SES/SRSOE/DIRAPS/GAPAPS
+552.360605,36060500000,Gerência de Enfermagem,SES/SRSOE/DIRAPS/GENF
+552.360606,36060600000,Gerência de Regulação da Região de Saúde Oeste,SES/SRSOE/DIRAPS/GEROE
+552.360607,36060700000,Gerência de Serviços de Atenção Primária Nº 1 da Ceilândia,SES/SRSOE/DIRAPS/GSAP1-CEI
+552.36060701,36060701000,Unidade Básica de Saúde nº 1 da Ceilândia,SES/SRSOE/GSAP1-CEI/UBS1-CEI
+552.36060702,36060702000,Unidade Básica de Saúde nº 15 da Ceilândia,SES/SRSOE/GSAP1-CEI/UBS15-CEI
+552.360608,36060800000,Gerência de Serviços de Atenção Primária Nº 2 da Ceilândia,SES/SRSOE/DIRAPS/GSAP2-CEI
+552.36060801,36060801000,Unidade Básica de Saúde nº 2 da Ceilândia,SES/SRSOE/GSAP2-CEI/UBS2-CEI
+552.360609,36060900000,Gerência de Serviços de Atenção Primária Nº 3 da Ceilândia,SES/SRSOE/DIRAPS/GSAP3-CEI
+552.36060901,36060901000,Unidade Básica de Saúde nº 3 da Ceilândia,SES/SRSOE/GSAP3-CEI/UBS3-CEI
+552.36061,36061000000,Gerência de Serviços de Atenção Primária Nº 4 da Ceilândia,SES/SRSOE/DIRAPS/GSAP4-CEI
+552.360611,36061100000,Gerência de Serviços de Atenção Primária Nº 5 da Ceilândia,SES/SRSOE/DIRAPS/GSAP5-CEI
+552.36061101,36061101000,Unidade Básica de Saúde nº 5 da Ceilândia,SES/SRSOE/GSAP5-CEI/UBS5-CEI
+552.360612,36061200000,Gerência de Serviços de Atenção Primária Nº 6 da Ceilândia,SES/SRSOE/DIRAPS/GSAP6-CEI
+552.36061201,36061201000,Unidade Básica de Saúde nº 6 da Ceilândia,SES/SRSOE/GSAP6-CEI/UBS6-CEI
+552.360613,36061300000,Gerência de Serviços de Atenção Primária Nº 7 da Ceilândia,SES/SRSOE/DIRAPS/GSAP7-CEI
+552.36061301,36061301000,Unidade Básica de Saúde nº 7 da Ceilândia,SES/SRSOE/GSAP7-CEI/UBS7-CEI
+552.360614,36061400000,Gerência de Serviços de Atenção Primária Nº 8 da Ceilândia,SES/SRSOE/DIRAPS/GSAP8-CEI
+552.36061401,36061401000,Unidade Básica de Saúde nº 8 da Ceilândia,SES/SRSOE/GSAP8-CEI/UBS8-CEI
+552.360615,36061500000,Gerência de Serviços de Atenção Primária Nº 9 da Ceilândia,SES/SRSOE/DIRAPS/GSAP9-CEI
+552.36061501,36061501000,Unidade Básica de Saúde nº 9 da Ceilândia,SES/SRSOE/GSAP9-CEI/UBS9-CEI
+552.360616,36061600000,Gerência de Serviços de Atenção Primária Nº 10 da Ceilândia,SES/SRSOE/DIRAPS/GSAP10-CEI
+552.36061601,36061601000,Unidade Básica de Saúde nº 10 da Ceilândia,SES/SRSOE/GSAP10-CEI/UBS10-CEI
+552.360617,36061700000,Gerência de Serviços de Atenção Primária Nº 11 da Ceilândia,SES/SRSOE/DIRAPS/GSAP11-CEI
+552.36061701,36061701000,Unidade Básica de Saúde nº 11 da Ceilândia,SES/SRSOE/GSAP11-CEI/UBS11-CEI
+552.360618,36061800000,Gerência de Serviços de Atenção Primária Nº 12 da Ceilândia,SES/SRSOE/DIRAPS/GSAP12-CEI
+552.36061801,36061801000,Unidade Básica de Saúde nº 12 da Ceilândia,SES/SRSOE/GSAP12-CEI/UBS12-CEI
+552.360619,36061900000,Gerência de Serviços de Atenção Primária Nº 13 da Ceilândia,SES/SRSOE/DIRAPS/GSAP13-CEI
+552.36061901,36061901000,Unidade Básica de Saúde nº 13 da Ceilândia,SES/SRSOE/GSAP13-CEI/UBS13-CEI
+552.36062,36062000000,Gerência de Serviços de Atenção Primária Nº 14 da Ceilândia,SES/SRSOE/DIRAPS/GSAP14-CEI
+552.36062001,36062001000,Unidade Básica de Saúde nº 14 da Ceilândia,SES/SRSOE/GSAP14-CEI/UBS14-CEI
+552.360621,36062100000,Gerência de Serviços de Atenção Primária Nº 15 da Ceilândia,SES/SRSOE/DIRAPS/GSAP15-CEI
+552.360622,36062200000,Gerência de Serviços de Atenção Primária Nº 16 da Ceilândia,SES/SRSOE/DIRAPS/GSAP16-CEI
+552.36062201,36062201000,Unidade Básica de Saúde nº 16 da Ceilândia,SES/SRSOE/GSAP16-CEI/UBS16-CEI
+552.36062202,36062202000,Unidade Básica de Saúde nº 18 da Ceilândia,SES/SRSOE/GSAP16-CEI/UBS18-CEI
+552.360623,36062300000,Gerência de Serviços de Atenção Primária Nº 17 da Ceilândia,SES/SRSOE/DIRAPS/GSAP17-CEI
+552.36062301,36062301000,Unidade Básica de Saúde nº 17 da Ceilândia,SES/SRSOE/GSAP17-CEI/UBS17-CEI
+552.360624,36062400000,Gerência de Serviços de Atenção Primária Nº 18 da Ceilândia,SES/SRSOE/DIRAPS/GSAP18-CEI
+552.360625,36062500000,Gerência de Serviços de Atenção Primária Nº 1 de Brazlândia,SES/SRSOE/DIRAPS/GSAP1-BRZ
+552.36062501,36062501000,Unidade Básica de Saúde nº 1 de Brazlândia,SES/SRSOE/GSAP1-BRZ/UBS1-BRZ
+552.360626,36062600000,Gerência de Serviços de Atenção Primária Nº 2 de Brazlândia,SES/SRSOE/DIRAPS/GSAP2-BRZ
+552.36062601,36062601000,Unidade Básica de Saúde nº 2 de Brazlândia,SES/SRSOE/GSAP2-BRZ/UBS2-BRZ
+552.360627,36062700000,Gerência de Serviços de Atenção Primária Nº 3 de Brazlândia,SES/SRSOE/DIRAPS/GSAP3-BRZ
+552.36062701,36062701000,Unidade Básica de Saúde nº 3 de Brazlândia,SES/SRSOE/GSAP3-BRZ/UBS3-BRZ
+552.36062702,36062702000,Unidade Básica de Saúde nº 4 de Brazlândia,SES/SRSOE/GSAP3-BRZ/UBS4-BRZ
+552.36062703,36062703000,Unidade Básica de Saúde nº 5 de Brazlândia,SES/SRSOE/GSAP3-BRZ/UBS5-BRZ
+552.36062704,36062704000,Unidade Básica de Saúde nº 6 de Brazlândia,SES/SRSOE/GSAP3-BRZ/UBS6-BRZ
+552.36062705,36062705000,Unidade Básica de Saúde nº 7 de Brazlândia,SES/SRSOE/GSAP3-BRZ/UBS7-BRZ
+552.36062706,36062706000,Unidade Básica de Saúde nº 8 de Brazlândia,SES/SRSOE/GSAP3-BRZ/UBS8-BRZ
+552.36062707,36062707000,Unidade Básica de Saúde nº 9 de Brazlândia,SES/SRSOE/GSAP3-BRZ/UBS9-BRZ
+552.360628,36062800000,Gerência de Acesso e Qualidade em Atenção Primária à Saúde,SES/SRSOE/DIRAPS/GEAQAPS
+552.361,36100000000,Assessoria de Planejamento em Saúde,SES/SRSOE/ASPLAN
+552.3611,36110000000,Diretoria Regional de Atenção Secundária,SES/SRSOE/DIRASE
+552.361101,36110100000,"Gerência de Planejamento, Monitoramento e Avaliação",SES/SRSOE/DIRASE/GPMA
+552.36110101,36110101000,Núcleo de Captação e Análise de Informações do SUS,SES/SRSOE/DIRASE/GPMA/NCAIS
+552.36110102,36110102000,Núcleo de Gestão De Custos,SES/SRSOE/DIRASE/GPMA/NGC
+552.3612,36120000000,Centro de Atenção Psicossocial Caps Ad Ceilândia,SES/SRSOE/DIRASE/CAPS AD-CEI
+552.3613,36130000000,Centro de Atenção Psicossocial Caps I Brazlândia,SES/SRSOE/DIRASE/CAPS I -BRZ
+552.3614,36140000000,UPA Ceilândia Sol Nascente,SES/SRSOE/DIRASE/UPA SOL NASC
+552.3615,36150000000,Gerência de Serviços de Atenção Secundária 1,SES/SRSOE/DIRASE/GSAS1
+552.361501,36150100000,Laboratório Regional da Ceilândia,SES/SRSOE/DIRASE/GSAS1/LRC
+552.361502,36150200000,Policlínica - CeiLândia Unidade I,SES/SRSOE/GSAS1/POLIC-CEI I 
+552.361503,36150300000,Policlínica - CeiLândia Unidade II,SES/SRSOE/GSAS1/POLIC-CEI II
+552.361504,36150400000,Policlínica - Brazlândia,SES/SRSOE/GSAS1/POLIC-BRZ
+552.361505,36150500000,Centro de Especialidades Odontológicas - Ceilândia Unidade I,SES/SRSOE/GSAS1/CEO-CEI I
+552.361506,36150600000,Centro de Especialidades Odontológicas - Ceilândia Unidade II,SES/SRSOE/GSAS1/CEO-CEI II
+552.361507,36150700000,Centro de Radiologia Odontológica da Região Oeste,SES/SRSOE/GSAS1/CRO-OE
